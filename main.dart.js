@@ -97540,7 +97540,7 @@ else B.z.cl(s,b,c,d,e)}}
 A.a_9.prototype={}
 A.yT.prototype={}
 A.S2.prototype={
-I(a){var s=null,r=A.b([A.p5(new A.ajS(),"/"),A.p5(new A.ajT(),"/dashboard"),A.p5(new A.ajU(),"/overview"),A.p5(new A.ajV(),"/participants"),A.p5(new A.ajW(),"/analysis"),A.p5(new A.ajX(),"/communication"),A.p5(new A.ajY(),"/resources"),A.p5(new A.ajZ(),"/settings")],t.yo)
+I(a){var s=null,r=A.b([A.p5(new A.ajS(),"/"),A.p5(new A.ajT(),"/dashboard"),A.p5(new A.ajU(),"/overview"),A.p5(new A.ajV(),"https://unite-pearl.vercel.app//participants"),A.p5(new A.ajW(),"https://unite-pearl.vercel.app/analysis"),A.p5(new A.ajX(),"https://unite-pearl.vercel.app/communication"),A.p5(new A.ajY(),"https://unite-pearl.vercel.app/resources"),A.p5(new A.ajZ(),"https://unite-pearl.vercel.app/settings")],t.yo)
 return new A.xe(A.b01(!1,s,s,s,s,s,s,s,s,!1,s,!0,s,!1,new A.XQ(new A.aoj(r,A.baX(),5))),new A.ak_(),"unite",$.aXC(),!1,s)}}
 A.ajS.prototype={
 $2(a,b){return B.Sb},
